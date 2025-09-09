@@ -1,1 +1,21 @@
 /* ここに記載 */
+#main-title{
+    color:blue;
+}
+
+.box p{
+    color:darkgray;
+}
+
+.box a{
+    text-decoration:none;
+}
+
+.box a:hover{
+    color:orange;
+}
+
+img{
+    width:200px;
+    height:auto;
+}
